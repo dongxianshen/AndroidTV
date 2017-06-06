@@ -131,7 +131,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     }
 
     /**
-     * 更新UI receiver
+     * 更新UI receiver  测试下
      */
     private BroadcastReceiver updateUI = new BroadcastReceiver() {
 
